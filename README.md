@@ -12,7 +12,9 @@
  #### 为什么可以使用javascript开发java版的Minecraft插件？
 
 因为java运行环境中有一个javascript引擎，可以运行javascript代码。更重要的是，可以直接在javascript中调用java代码。这样，我们就可以用javascript来写“java”程序。
-[图片]
+
+ ![结构](https://raw.githubusercontent.com/PVPIN/pvpin_js_rt/master/images/jar_0.jpeg)
+
 这样做有以下几个好处：
 * 更简单，javascript是一门比java更简单的语言。学习更快，编写相同的功能，花费的时间也更短；
 * 动态化，作为一门动态语言，javascript可以在服务器运行中修改和部署代码。
