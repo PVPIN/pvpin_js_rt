@@ -1,30 +1,32 @@
- ![封面](https://raw.githubusercontent.com/PVPIN/pvpin_js_rt/master/images/jar.png)
-
-### 导出插件的正确姿势
-
-这篇教程试图回答这么几个问题：
-
-* 为什么可以使用javascript开发java版的Minecraft插件？
-* 如何在自己的电脑或服务器上运行Minecraft服务器？
-* 如何下载和运行在*PVPIN*上开发的插件？
-
-
- #### 为什么可以使用javascript开发java版的Minecraft插件？
-
+ ![封面](https://dn-coding-net-production-static.qbox.me/3113aa7b-291d-402e-819e-bebbf07e5ef3.png)<br>
+#<big>介绍</big> <small>introduce</small>
+<br>Pay attention to the English text in this Readme are not so well,because this is the Machine Translation.So,if you have any do not understand that I hope you can forgive me,and if you can help me to improvement the text in Engilish that I'd like to thank you first,please mail me “i@timewk.cn”.
+####<big>这是什么？</big> <small>What is this?</small>
+这是*PVPIN*，一个基于Java script实现编写JAVA语言用于“我的世界”/“Minecraft”中的插件的一个网站，中的运行环境时，也就是前端的源代码。
+<br>This is *"PVPIN"*,one based on Java script implementation develop by JAVA of the Minecraft plugins in RunTime.That is the front-end source.
+<br>
+####<big>为什么可以使用javascript开发java版的Minecraft插件？</big> 
+####<small>Why we can use JavaScript to develop java version of the Minecraft plugins</small>
 因为java运行环境中有一个javascript引擎，可以运行javascript代码。更重要的是，可以直接在javascript中调用java代码。这样，我们就可以用javascript来写“java”程序。
+<br>Because the Java runtime environment has a JavaScript engine, you can run the JavaScript code. More importantly, you can directly call the Java code in javascript. In this way, we can use JavaScript to write "Java" program.
+<br>![结构](https://raw.githubusercontent.com/PVPIN/pvpin_js_rt/master/images/jar_0.jpeg)
+<br>这样做有以下几个好处：
+<br>* 更简单，javascript是一门比java更简单的语言。学习更快，编写相同的功能，花费的时间也更短；
+<br>* javascript本身是一门性价比高的语言，值得一学。性 ＝用途广泛性（跨前后端与各种平台），价 ＝学习的代价（耗费时间与难易程度）
+<br>
+<br>This has the following benefits:
+<br>* JavaScript is a more simple language than JAVA. Learn faster, write the same function, and take less time;
+<br>* dynamic, as a dynamic language, JavaScript can be modified and deployed in the server running code.
+<br>* JavaScript itself is a cost-effective language, it is worth learning. cost = use wide (across the front end and various platforms), price = the cost of learning (time and difficulty)
+####<big>如何使用它?</big> <small>How to use it?</small>
+Pay attention to next text will not provide English text that because the *"PVPIN"* was not have English page,only simplified Chinese.Because the *“PVPIN”* is just for Chinese Minecraft Players to use,if you really want use it by English,please contact us we will communicate this thing.You can contact us by "QQ" or "Mail".But in the end we have a Copyright statement.(if you want to use this Runtime that please read it)
+QQ number :4740281 (Gang Ma)
+Mail :gangma@foxmail.com (Gang Ma)
 
- ![结构](https://raw.githubusercontent.com/PVPIN/pvpin_js_rt/master/images/jar_0.jpeg)
+在此之前，你需要拥有一个PVPIN账号来编写插件，详细的规则请查看PVPIN内的相关帮助。+
 
-这样做有以下几个好处：
-* 更简单，javascript是一门比java更简单的语言。学习更快，编写相同的功能，花费的时间也更短；
-* 动态化，作为一门动态语言，javascript可以在服务器运行中修改和部署代码。
-* javascript本身是一门性价比高的语言，值得一学。性 ＝用途广泛性（跨前后端与各种平台），价 ＝学习的代价（耗费时间与难易程度）
- 
-
-#### 如何在自己的电脑或服务器上运行Minecraft服务器
-
-一、首先需要服务端包。
-		这里有pvpin服务器上运行的整合包：[https://pan.baidu.com/s/1dENjTyL](https://pan.baidu.com/s/1dENjTyL)  。
+一、获取服务端包。
+		这里有一个简单的整合包：[https://pan.baidu.com/s/1dENjTyL](https://pan.baidu.com/s/1dENjTyL)  。
 		
 下载后解压：
  ![解压](https://raw.githubusercontent.com/PVPIN/pvpin_js_rt/master/images/jar_1.png)
@@ -89,12 +91,13 @@
 ![](https://raw.githubusercontent.com/PVPIN/pvpin_js_rt/master/images/jar_9.png)
 
 #### 如果你要安装第二个插件，只需要下载插件的js文件，然后把js放进这个目录，然后重启服务器即可。不需要重新下载jar包，否则可能会覆盖。
-
-#####* 提示：PVPIN的js运行环境会不时更新，请关注网站的更新通知。*
-
-
-
-
+##至此，本文已经结束，尽情使用吧！
+##  提示：PVPIN的js运行环境会不时更新，请关注网站的更新通知。 
+GPL v2 开源协议
+<br>
+<Br>This project uses GPL V2 open source protocol for production, please follow this agreement in the relevant operations!
+<br> if it is for commercial use, please declare copyright at the relevant location!
+<br>Copy right 2017 PVPIN.com
+<br> thanks again for your reading!
 
 		
-
