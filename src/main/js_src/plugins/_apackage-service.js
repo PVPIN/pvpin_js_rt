@@ -208,6 +208,7 @@ exports.pvpin_items = require('items');
 exports.pvpin_javaMap2jsMap = javaMap2jsMap;
 exports.array2jsArray = javaArray2jsArray;
 exports.Array2jsArray = javaArray2jsArray;
+exports.javaArray2jsArray = javaArray2jsArray;
 exports.pvpin_Map2jsMap = javaMap2jsMap;
 exports.pvpin_broadcast = broadcast;
 exports.pvpin_player = player;
