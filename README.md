@@ -1,8 +1,9 @@
- [![封面](https://dn-coding-net-production-static.qbox.me/3113aa7b-291d-402e-819e-bebbf07e5ef3.png)](http://pvpin.com/)
+ # [![封面](https://dn-coding-net-production-static.qbox.me/3113aa7b-291d-402e-819e-bebbf07e5ef3.png)](http://pvpin.com/)
+ 
  __用拼积木的方式开发MInecraft插件__
  
  
-#<big>介绍</big> <small>introduce</small>
+##<big>介绍</big> <small>introduce</small>
  
 ####<big>这是什么？</big> <small>What is this?</small>
 <big>这是*[pvpin](http://pvpin.com/)*，一个基于Java script实现编写JAVA语言用于“我的世界”/“Minecraft”中的插件的一个网站，中的运行环境时，也就是前端的源代码。</big> 
