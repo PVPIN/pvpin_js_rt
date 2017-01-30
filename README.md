@@ -1,6 +1,6 @@
- # [![封面](https://dn-coding-net-production-static.qbox.me/3113aa7b-291d-402e-819e-bebbf07e5ef3.png)](http://pvpin.com/)
+# [![封面](https://dn-coding-net-production-static.qbox.me/3113aa7b-291d-402e-819e-bebbf07e5ef3.png)](http://pvpin.com/)
  
- __用拼积木的方式开发MInecraft插件__
+__用拼积木的方式开发MInecraft插件__
  
  
 ##<big>介绍</big> <small>introduce</small>
