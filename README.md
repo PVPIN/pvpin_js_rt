@@ -1,8 +1,9 @@
 # [![封面](https://dn-coding-net-production-static.qbox.me/3113aa7b-291d-402e-819e-bebbf07e5ef3.png)](http://pvpin.com/)
- 
+ <br>
 __用拼积木的方式开发MInecraft插件__
- 
- 
+ Develop Minecraft plugins by building blocks like play.
+ <br>
+ Pay attention to the English text in this Readme are not so well,because this is the Machine Translation.So,if you have any do not understand that I hope you can forgive me,and if you can help me to improvement the text in Engilish that I’d like to thank you first,please mail me “i@timewk.cn”.
 ### <big>介绍</big> <small>introduce</small>
 
 ####<big>这是什么？</big> <small>What is this?</small>
