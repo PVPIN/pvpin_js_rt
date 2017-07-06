@@ -1,0 +1,13 @@
+# Created by .ignore support plugin (hsz.mobi)
+/pom.xml
+.DS_Store
+.gitignore
+.idea/
+pom.xml
+
+/ant-build.xml
+/dependency-reduced-pom.xml
+/pvpin-rt.iml
+src/test/
+target/
+/.gitignore

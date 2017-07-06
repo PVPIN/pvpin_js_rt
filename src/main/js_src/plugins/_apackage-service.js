@@ -1,6 +1,8 @@
 var File = java.io.File,
     FileReader = java.io.FileReader,
     BufferedReader = java.io.BufferedReader;
+pvpin_imageio = javax.imageio;
+pvpin_j_util=java.util;
 pvpin_achievement = org.bukkit.Achievement;
 pvpin_color = org.bukkit.Color;
 pvpin_FireworkEffect = org.bukkit.FireworkEffect;
@@ -218,6 +220,7 @@ exports.pvpin_onlinePlayers = onlinePlayers;
 exports.pvpin_clearIntervalsAndEvents = clearIntervalsAndEvents;
 exports.pvpin_clearIntervals = clearIntervals;
 exports.pvpin_clearEvents = clearEvents;
+exports.pvpin_imageio = pvpin_imageio;
 
 /**
  * 这些类库的封装只是为了兼容以前的代码，是不必须的。你可以直接使用bukkit的包名。
@@ -252,3 +255,4 @@ exports.pvpin_boss = pvpin_boss;
 exports.pvpin_material_l = pvpin_material_l;
 exports.pvpin_conversations = pvpin_conversations;
 exports.pvpin_attribute = pvpin_attribute;
+exports.pvpin_j_util = pvpin_j_util;
